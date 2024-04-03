@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(3, 77, 121);
+    text-align: center;
+    color: white;
+
+}
+textarea{
+    font-size: 18px;
+    width: 500px;
+    height: 250px;
+    resize: none;
+}
+div{text-align: left;}
